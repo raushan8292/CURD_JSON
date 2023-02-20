@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "name": "raushan",
+        "organization": "bigscal",
+        "role": "back-end",
+        "email": "ra@example.com",
+        "password": "123"
+    },
+    {
+        "id": 2,
+        "name": "manish",
+        "organization": "congnigent",
+        "role": "back-end",
+        "email": "manish@example.com",
+        "password": "234"
+    },
+    {
+        "id": 3,
+        "name": "rakesh kumar",
+        "organization": "tcs",
+        "role": "front-end",
+        "email": "rakesh@example.com",
+        "password": "896",
+        "profile_pic": "public\\profile_pic\\1676903759189.jpg"
+    },
+    {
+        "id": "4",
+        "name": "sumit kumar",
+        "organization": "google",
+        "role": "data scientist",
+        "email": "amit@example.com",
+        "password": "668"
+    }
+]
